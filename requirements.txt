@@ -8,5 +8,4 @@ gunicorn
 xgboost
 uvicorn
 fastapi
-sklearn
 pydantic
